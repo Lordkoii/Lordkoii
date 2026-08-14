@@ -23,12 +23,20 @@ I work at the intersection of technical support, quality engineering, and operat
 - Building **Cosmic Relay** and **Cosmic Pulse** under the **Lordkoii** name
 - Expanding browser automation and end-to-end testing with **Playwright**
 
-## Featured Projects
+## Cosmic Utilities
+
+**Cosmic Utilities** is a family of independently developed Windows tools built for Star Citizen players, with a focus on immersion, performance, and reliability.
 
 | Project | Description |
 | --- | --- |
 | [**Cosmic Pulse**](https://github.com/Lordkoii/Cosmic-Pulse) | Star Citizen performance intelligence for Windows—telemetry, bottleneck analysis, optimization validation, and reliability diagnostics. |
 | [**Cosmic Relay**](https://github.com/Lordkoii/Cosmic-Relay) | A lightweight, customizable in-game media overlay for Star Citizen that keeps currently playing media visible without leaving the cockpit. |
+
+Both projects are free community tools. Support helps cover code signing, testing, release infrastructure, and continued development.
+
+<a href="https://ko-fi.com/cosmicutilities">
+  <img src="https://img.shields.io/badge/Support-Cosmic_Utilities-ff5e5b?style=flat-square&logo=kofi&logoColor=white" alt="Support Cosmic Utilities on Ko-fi">
+</a>
 
 ## Technical Toolkit
 
