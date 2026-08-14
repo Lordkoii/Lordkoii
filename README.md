@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/odin-hero.jpg" alt="Anvil Odin flying through an asteroid field" width="100%">
+  <img src="./assets/odin-hero.gif" alt="Animated Anvil Odin flying through an asteroid field" width="100%">
 </p>
 
 <h1 align="center">Alexander Taylor</h1>
