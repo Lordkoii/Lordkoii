@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/odin-hero.jpg" alt="Anvil Odin flying through an asteroid field" width="100%">
+</p>
+
 <h1 align="center">Alexander Taylor</h1>
 
 <p align="center">
