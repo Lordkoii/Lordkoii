@@ -2,45 +2,63 @@
   <img src="./assets/odin-hero.gif" alt="Animated Anvil Odin flying through an asteroid field" width="100%">
 </p>
 
-<h1 align="center">Alexander Taylor</h1>
+<h1 align="center">Alexander Taylor · Lordkoii</h1>
 
 <p align="center">
-  <strong>Technical Support Engineer · QA-Minded Problem Solver · Independent Developer</strong>
+  <strong>Independent Developer · Reliability & Automation Engineer · Builder of Cosmic Utilities</strong>
 </p>
 
 <p align="center">
-  Building practical Windows tools with a focus on reliability, usability, and real-world troubleshooting.
+  Building practical software, overlays, utility tools, and reliability systems with a focus on usability, observability, automation, and real-world problem solving.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lordkoii/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6f42c1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://ko-fi.com/cosmicutilities">
+    <img src="https://img.shields.io/badge/Ko--fi-Cosmic_Utilities-ff5e5b?style=for-the-badge&logo=kofi&logoColor=white" alt="Cosmic Utilities on Ko-fi">
+  </a>
 </p>
 
-## About Me
+## What I'm Building
 
-I work at the intersection of technical support, quality engineering, and operations—diagnosing complex problems, improving reliability, and turning real-world pain points into useful software.
+I build software around two themes: **useful tools for real users** and **systems that are easier to understand, test, and trust**.
 
-- Experienced with production troubleshooting across applications, APIs, databases, and cloud infrastructure
-- Focused on clear reproduction steps, thoughtful validation, root-cause analysis, and durable fixes
-- Building **Cosmic Relay** and **Cosmic Pulse** under the **Lordkoii** name
-- Expanding browser automation and end-to-end testing with **Playwright**
+### Cosmic Utilities
 
-## Cosmic Utilities
-
-**Cosmic Utilities** is a family of independently developed Windows tools built for Star Citizen players, with a focus on immersion, performance, and reliability.
+**Cosmic Utilities** is an expanding family of independently developed tools and experiences with a shared space-inspired design language and an emphasis on reliability, usability, and thoughtful engineering.
 
 | Project | Description |
 | --- | --- |
 | [**Cosmic Pulse**](https://github.com/Lordkoii/Cosmic-Pulse) | Star Citizen performance intelligence for Windows—telemetry, bottleneck analysis, optimization validation, and reliability diagnostics. |
-| [**Cosmic Relay**](https://github.com/Lordkoii/Cosmic-Relay) | A lightweight, customizable in-game media overlay for Star Citizen that keeps currently playing media visible without leaving the cockpit. |
+| [**Cosmic Relay**](https://github.com/Lordkoii/Cosmic-Relay) | A lightweight, customizable media overlay designed to keep currently playing media visible without breaking immersion. |
 
-Both projects are free community tools. Support helps cover code signing, testing, release infrastructure, and continued development.
+Both are free community tools. Support helps cover code signing, testing, release infrastructure, and continued development.
 
-<a href="https://ko-fi.com/cosmicutilities">
-  <img src="https://img.shields.io/badge/Support-Cosmic_Utilities-ff5e5b?style=flat-square&logo=kofi&logoColor=white" alt="Support Cosmic Utilities on Ko-fi">
-</a>
+### Orbital Reliability Lab
+
+[**Orbital Reliability Lab**](https://github.com/Lordkoii/Orbital-Reliability-Lab) is an independent systems reliability, automation, validation, and operations engineering lab for simulated high-consequence environments.
+
+It currently explores two operational domains on a shared reliability core:
+
+- **Mission Operations** — telemetry, ground systems, redundancy, failover, and mission-readiness concepts
+- **Factory Operations** — equipment state, production flow, MES-style tracking, fault isolation, recovery, and validation
+
+Core response contract:
+
+`INJECT → DETECT → DIAGNOSE → ISOLATE → RECOVER → VALIDATE → EVIDENCE`
+
+ORL is an independent portfolio project and is not affiliated with SpaceX, Tesla, Starlink, Terafab, or their subsidiaries.
+
+## Engineering Background
+
+I work across technical support, quality engineering, reliability, and operations—diagnosing complex problems, improving system behavior, validating changes, and turning recurring pain points into useful software.
+
+- Production troubleshooting across applications, APIs, databases, and cloud infrastructure
+- Reproduction, validation, root-cause analysis, incident response, and operational readiness
+- Browser and API automation with Playwright and Postman
+- Cloud, container, database, and observability tooling
 
 ## Technical Toolkit
 
@@ -51,11 +69,13 @@ Both projects are free community tools. Support helps cover code signing, testin
 
 ## Current Focus
 
-- Developing and refining the Cosmic utility family
-- Building practical Playwright automation experience
-- Creating reliable, approachable tools for real users
-- Open to Technical Support Engineering and QA Engineering opportunities
+- Expanding the **Cosmic Utilities** ecosystem
+- Evolving **Orbital Reliability Lab** across mission and advanced-manufacturing reliability concepts
+- Deepening automation, observability, distributed-systems, and validation experience
+- Building useful software in public and documenting the engineering decisions behind it
 
 ## Connect
 
-The best place to reach me professionally is [LinkedIn](https://www.linkedin.com/in/lordkoii/).
+- [LinkedIn](https://www.linkedin.com/in/lordkoii/) — professional background and career history
+- [Ko-fi](https://ko-fi.com/cosmicutilities) — Cosmic Utilities project hub and support
+- GitHub — source, releases, experiments, and engineering work
